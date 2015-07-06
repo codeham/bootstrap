@@ -1,0 +1,45 @@
+.header{
+	font-family: Times;
+	font-size: 40px;
+	
+}
+
+.boxed{
+    border: 1px solid black; 
+}
+
+#firstpage{
+	background-color: blue; 
+        font-family: Times; 
+       background-image: url(http://i.4cdn.org/wg/1435551341309.png); 
+      
+
+}
+
+
+
+.list {
+	font-size: 25px;  
+}
+
+.navigationbar{
+        font-family: ariel; 
+}
+
+/*Second Page*/
+
+.firstrow{
+ font-family: Times;    
+
+}
+
+#secondpage{
+    /*background-image: url(http://i.4cdn.org/wg/1435994804763.jpg);*/
+}
+
+/*Third Page*/ 
+
+.testtable{
+    align:center; 
+    valign:top; 
+}

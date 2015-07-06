@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	</title>
+<link rel="stylesheet" type="text/css" href="fontdev.css">
+</head>
+
+<body>
+	<div class = "navigation bar">
+	<nav>
+  <ul>
+    <li>
+    	<a href="secondpage.html"><font color = "black">Home</font></a>
+    </li>
+    <li><a href="#"><font color = "black">About Me</font></a></li>
+    <li>
+    	<a href="#"><font color = "black">Links</font></a>
+    </li>
+  </ul>
+</nav>
+	</div>
+	<div class = "header">
+	<center><h1>Savandy Pen</h1></center>
+	</div>
+	
+	<div class = "list">
+	<center>
+		<h1><a href = "secondpage.html">
+			<font color = "black">BOBA IS LIFE</font></a>
+<br>
+		<hr>
+		
+		<li></h1>
+		</center>	
+		</div>
+</body>
+</html>
